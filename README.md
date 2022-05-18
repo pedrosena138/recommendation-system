@@ -7,7 +7,7 @@ Sistema de recomendação de filme baseado em um modelo de fatoração de matriz
 
 2. Clicar em 'Open in Colab' no canto superior do notebook
 
-3.Arquivo -> Salvar uma cópia no Drive
+3. Arquivo -> Salvar uma cópia no Drive
 
 O passo  a seguir é para melhorar a eficiência do modelo usando a GPU, é altamente recomendável. Caso não seja possível utilizar a GPU, o modelo funcionará normalmente mas poderá ter impacto na performace.:
 
@@ -15,7 +15,6 @@ O passo  a seguir é para melhorar a eficiência do modelo usando a GPU, é alta
 
 5. Acelerador de Hardware, selecionar GPU
 
-
 Para rodar o notebook siga os seguintes passos:
 
-1. Ambiente de Execução -> Executar tudo ou Ctrl+F9
+6. Ambiente de Execução -> Executar tudo ou Ctrl+F9
